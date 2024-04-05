@@ -3,7 +3,7 @@
 Repositorio realizado para la activiadad 0 de la guía práctica de Python.
 
 
-## Authors
+## Integrantes
 
 - [Santiago Auat](https://github.com/santiauat)
 - [Laura Tulian](https://www.github.com/lauratulian)
